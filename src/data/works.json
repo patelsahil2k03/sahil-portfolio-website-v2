@@ -1,0 +1,45 @@
+[
+  
+        {
+            "Title": "Trippy",
+            "Description": "Trippy is a trip planner web app that allows users to plan their trips, manage activities for each trip, and provides the ability to delete and update trips and activities.",
+            "Skills": ["React", "CSS", "JavaScript", "Styled Components"],
+            "Code": "https://github.com/vigneshkumarm2002/trippy",
+            "Website": "https://trippy-travel-planner.netlify.app/",
+            "Image": "Screenshot5.png"
+        },
+        {
+            "Title": "Cash Sync",
+            "Description": "CashSync is an expense tracker website that allows user to manage their expenses, add new expenses, delete them, and filter expenses by text and date.",
+            "Skills": ["React", "Tailwind CSS", "JavaScript"],
+            "Code": "https://github.com/vigneshkumarm2002/CashSync",
+            "Website": "https://cash-sync.netlify.app/",
+            "Image": "Screenshot6.png"
+        },
+        {
+            "Title": "Morden Decors",
+            "Description": "An aesthetically pleasing and highly responsive website for an interior design shop.",
+            "Skills": ["HTML", "CSS", "Tailwind CSS", "JavaScript"],
+            "Code": "https://github.com/vigneshkumarm2002/Morden-Decors",
+            "Website": "https://vigneshkumarm2002.github.io/Morden-Decors/src/",
+            "Image": "Screenshot1.png"
+            },
+        {
+            "Title": "Weathery",
+            "Description": "The Weather Website provides real-time weather data, including geolocation-based information, city-specific searches, hourly forecasts, and a range of other features.",
+            "Skills": ["React", "CSS", "JavaScript","ChartJS","API"],
+            "Code": "https://github.com/vigneshkumarm2002/weather-dashboard",
+            "Website": "https://vigneshkumarm2002.github.io/weather-dashboard/",
+            "Image": "Screenshot4.png"
+        } ,
+   
+        {
+        "Title": "Board.",
+        "Description": "A highly responsive authentication page and a dynamic dashboard page, enriched with interactive charts for data visualization and analysis.",
+        "Skills": ["React", "CSS", "JavaScript", "ChartJS","Firebase"],
+        "Code": "https://github.com/vigneshkumarm2002/Board-Charts",
+        "Website": "https://vigneshkumarm2002.github.io/Board-Charts/",
+        "Image": "Screenshot3.png"
+        }
+             
+]
