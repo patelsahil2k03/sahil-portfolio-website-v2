@@ -4,6 +4,7 @@ import "./../styles/about.css";
 const About = () => {
   const skills = [
     "AWS Cloud",
+    "Git",
     "GitHub Actions",
     "GitLab CI/CD",
     "Jenkins",
@@ -18,7 +19,11 @@ const About = () => {
     "Zabbix",
     "Python",
     "Bash",
-    "Ubuntu Linux"
+    "PM2",
+    "Ubuntu Linux",
+    "Notion",
+    "ClickUp",
+    "Loom",
   ];
   const basics = [
     "Azure",

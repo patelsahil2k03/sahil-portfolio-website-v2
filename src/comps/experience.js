@@ -9,163 +9,102 @@ const Experience = () => {
         <div className="expContainer">
           <div className="expBox">
             <div className="expAlign">
-              <h4>Frontend Developer</h4>
+              <h4>DevOps Associate</h4>
               <h5>
                 <a
-                  href="https://www.linkedin.com/company/greatifyhq/"
+                  href="https://www.linkedin.com/company/vegastack/"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  @Greatify
+                  @VegaStack (PeerXP)
                 </a>
               </h5>
             </div>
             <div className="dateLocation">
-              <p className="jobLocation">Bengaluru</p>
-              <p>June 2024 - Present</p>
+              <p className="jobLocation">Bangalore</p>
+              <p>Sept 2024 - Oct 2024</p>
             </div>
             <ul>
               <li>
-                Converted <b>Figma designs</b> into pixel-perfect, responsive
-                code, ensuring consistency across various devices and platforms.
+                Migrated Client's <b>GitLab CI/CD</b> pipelines to <b>GitHub Workflows.</b>
               </li>
               <li>
-                Created <b>reusable and dynamic components</b> to streamline
-                development and enhance maintainability.
+                Created <b>custom composite GitHub Actions</b> for client's and internal projects.
               </li>
               <li>
-                Integrated <b>APIs</b> to enable real-time data interactions and
-                seamless user experiences.
+                Conducted R&D on different workflows stratagies and Created <b>reuseable GitHub workflows</b> for client's and internal projects.
               </li>
-              <li>
-                Implemented <b>graphs</b> for visualizing various data reports
-              </li>
-              <li>
-                Conducted <b>R&D</b> and proof of concept (<b>POC</b>)
-                development for new features to improve product functionality
-                and user experience.
-              </li>
-              <li>Tech Stack - React, NextJS, TailwindCSS, Git</li>
+              <li><b>Tech Stack</b> - Git, GitHub Actions, GitLab CI/CD</li>
             </ul>
           </div>
 
           <div className="expBox">
             <div className="expAlign">
-              <h4>Frontend Developer</h4>
-
+              <h4>DevOps Associate Intern</h4>
               <h5>
                 <a
-                  href="https://www.linkedin.com/company/peerxp/"
+                  href="https://www.linkedin.com/company/vegastack/"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  @PeerXP® | VegaStack
+                  @VegaStack (PeerXP)
                 </a>
               </h5>
             </div>
             <div className="dateLocation">
-              <p className="jobLocation">Bengaluru</p>
-              <p>October 2023 - April 2024</p>
+              <p className="jobLocation">Bangalore</p>
+              <p>March 2024 - Aug 2024</p>
             </div>
             <ul>
               <li>
-                Worked on UI enhancements for the <b>SaaS products</b>,
-                seamlessly integrated <b>Rest API's</b> and developed{" "}
-                <b>new features</b> to optimize user experience and
-                functionality.
+                Automated deployment of complex web apps <b>(Django, NextJS, ReactJS)</b> with <b>Nginx</b> as load balancer using <b>GitLab CI/CD</b>
               </li>
               <li>
-                Developed the entire{" "}
-                <span className="hyperLink">
-                  {" "}
-                  <a href="https://vegafly.com/" target="_blank" rel="noreferrer" >
-                    {" "}
-                    vegafly.com{" "}
-                  </a>
-                </span>{" "}
-                website to effectively showcase the product also integrated{" "}
-                <b>Directus CMS</b>, and integrated the <b>SEO checker tool</b>{" "}
-                as a feature within the website.
+                Created Terraform manifests with aws s3 as backend to automatically spin up spot instances and run Ansible playbooks on it. <b>(Ansible playbooks for testing blog tutorials)</b>
               </li>
               <li>
-                Created <b> reusable components</b> for a component library
-                called <b>Storybook</b> to ensure consistency and optimize
-                development processes.
+                Created <b>Dockerfiles and docker-compose files</b> for frontend, backend, databases and rabbitmq.
               </li>
               <li>
-                Tech Stack - React, NextJS, TailwindCSS, Git, Directus CMS
+                Implemented proactive monitoring of servers with <b>Zabbix server 7.0</b> and <b>Zabbix agent 2</b>
+              </li>
+              <li>
+                <b>Achievement:</b> Appointed as a full time employee <b>@Vegastack (PeerXP)</b>
+              </li>
+              <li>
+                <b>Tech Stack:</b> - AWS, GitLab CI/CD, Docker, Docker-Compose, Terraform, Ansible, Zabbix
               </li>
             </ul>
           </div>
+
           <div className="expBox">
             <div className="expAlign">
-              <h4>Freelance Web Developer</h4>
-
+              <h4>Cloud Computing</h4>
               <h5>
                 <a href="https://darlinsproduction.in/" target="_blank" rel="noreferrer">
-                  @Darlins Production
+                  @Extion Infotech
                 </a>
               </h5>
             </div>
             <div className="dateLocation">
               <p className="jobLocation"> Remote</p>
-              <p>June - September 2023</p>
+              <p>Jan 2024 - Feb 2024</p>
             </div>
-
             <ul>
               <li>
-                Developed a complete website for{" "}
-                <span className="hyperLink">
-                  <a href="https://darlinsproduction.in/" target="_blank" rel="noreferrer">
-                    Darlins Production
-                  </a>
-                </span>{" "}
-                a <b>leading modelling agency</b> in Tamilnadu.
+                Achieved <b>99.9%</b> uptime with auto-scaling by deploying web applications using Serverless Amazon Elastic Beanstalk.
               </li>
               <li>
-                Additionally, contributed to the development of their partner's
-                website.
-              </li>
-              <li>Managed all aspects independently from start to finish.</li>
-              <li>
-                Tech Stack - HTML, CSS, JavaScript, Responsive design, Git, SEO
-              </li>
-            </ul>
-          </div>
-          <div className="expBox">
-            <div className="expAlign">
-              <h4>Frontend Developer Intern</h4>
-
-              <h5>
-                <a
-                  href="https://www.linkedin.com/company/careteam-private-limited/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  @CareTeam Pvt Ltd.
-                </a>
-              </h5>
-            </div>
-
-            <div className="dateLocation">
-              <p className="jobLocation">Remote</p>
-              <p>September - December 2022</p>
-            </div>
-
-            <ul>
-              <li>
-                Developed a highly <b>responsive UI</b> for a{" "}
-                <b>digital credential management</b> platform, focusing on
-                optimal user experience across devices, and integrated{" "}
-                <b>REST APIs</b> to display credential details within the UI.
+                Developed a serverless app that uses <b>API Gateway and AWS Lambda</b> to reduce operating costs.
               </li>
               <li>
-                <b>Automated</b> google sheets into documents and certificates
-                using <b>Appscript</b>.
+                Managed data across various <b>Amazon S3</b> buckets, applying lifecycle policies that lowered storage costs while ensuring <b>99.99%</b> durability.
               </li>
               <li>
-                Tech Stack - React,AppScript,JavaScript, CSS, HTML, Responsive
-                design,{" "}
+                <b>Achievement:</b> Chosen as one of the top 5 outstanding performers.
+              </li>
+              <li>
+                <b>Tech Stack:</b> AWS EC2, AWS S3, Amazon Elastic Beanstalk, AWS Lambda, AWS API Gateway
               </li>
             </ul>
           </div>
