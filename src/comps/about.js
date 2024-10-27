@@ -4,7 +4,6 @@ import "./../styles/about.css";
 const About = () => {
   const skills = [
     "AWS Cloud",
-    "Git",
     "GitHub Actions",
     "GitLab CI/CD",
     "Jenkins",
@@ -17,8 +16,10 @@ const About = () => {
     "SonarQube",
     "Trivy",
     "Zabbix",
+    "PostgreSQL",
     "Python",
     "Bash",
+    "Git",
     "PM2",
     "Ubuntu Linux",
     "Notion",
@@ -30,7 +31,6 @@ const About = () => {
     "HTML",
     "CSS",
     "AI/ML",
-    "MySQL",
     "MongoDB",
     "Cloudflare",
     "ArgoCD",
@@ -52,7 +52,7 @@ const About = () => {
 
           <div className="skillsContent">
             <div>
-              <h2>My Skills</h2>
+              <h3>My Skills</h3>
               <div className="allSkill">
                 {skills.map((skill, index) => {
                   return (
@@ -64,7 +64,7 @@ const About = () => {
               </div>
             </div>
             <div>
-              <h2>Fundamentals in,</h2>
+              <h3>Fundamentals in,</h3>
               <div className="allSkill">
                 {basics.map((basic, index) => {
                   return (

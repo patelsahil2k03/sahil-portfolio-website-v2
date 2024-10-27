@@ -1,45 +1,31 @@
 [
-  
+
         {
-            "Title": "Trippy",
-            "Description": "Trippy is a trip planner web app that allows users to plan their trips, manage activities for each trip, and provides the ability to delete and update trips and activities.",
-            "Skills": ["React", "CSS", "JavaScript", "Styled Components"],
-            "Code": "https://github.com/vigneshkumarm2002/trippy",
-            "Website": "https://trippy-travel-planner.netlify.app/",
-            "Image": "Screenshot5.png"
+            "Title": "Go-Web-App",
+            "Description": "Implemented CI/CD pipeline and workflow to automate code quality checks, application builds, vulnerability scanning, cloud deployment, and monitoring, enhancing efficiency and reliability in software delivery.",
+            "Skills": ["Git","GitHub Actions","GitLab CI/CD", "Docker","EKS","Helm","Terraform", "PM2","SonarQube","Trivy","Zabbix"],
+            "Code": "https://github.com/Uj5Ghare/Go-Web-App",
+            "Image": "go-web-app.png"
         },
         {
-            "Title": "Cash Sync",
-            "Description": "CashSync is an expense tracker website that allows user to manage their expenses, add new expenses, delete them, and filter expenses by text and date.",
-            "Skills": ["React", "Tailwind CSS", "JavaScript"],
-            "Code": "https://github.com/vigneshkumarm2002/CashSync",
-            "Website": "https://cash-sync.netlify.app/",
-            "Image": "Screenshot6.png"
+            "Title": "ArgoCD-Canary-Deployment",
+            "Description": "Automated the Dockerization of a Go web app using GitHub Actions, deployed it with Argo CD, and managed delivery through a canary deployment strategy.",
+            "Skills": ["Git","GitHub Actions","Docker","Kubernetes","ArgoCD"],
+            "Code": "https://github.com/Uj5Ghare/ArgoCD-Canary-Deployment",
+            "Image": "argocd-canary-deployment.png"
         },
         {
-            "Title": "Morden Decors",
-            "Description": "An aesthetically pleasing and highly responsive website for an interior design shop.",
-            "Skills": ["HTML", "CSS", "Tailwind CSS", "JavaScript"],
-            "Code": "https://github.com/vigneshkumarm2002/Morden-Decors",
-            "Website": "https://vigneshkumarm2002.github.io/Morden-Decors/src/",
-            "Image": "Screenshot1.png"
+            "Title": "Django-ToDo-App",
+            "Description": "This project automates the deployment of a Django To-Do application on an EKS cluster, including Docker image creation and AWS Load Balancer setup.",
+            "Skills": ["Git","Jenkins","Docker","Docker-Compose","EKS","Helm"],
+            "Code": "https://github.com/Uj5Ghare/Django-ToDo-App",
+            "Image": "django-todo-app.png"
             },
         {
-            "Title": "Weathery",
-            "Description": "The Weather Website provides real-time weather data, including geolocation-based information, city-specific searches, hourly forecasts, and a range of other features.",
-            "Skills": ["React", "CSS", "JavaScript","ChartJS","API"],
-            "Code": "https://github.com/vigneshkumarm2002/weather-dashboard",
-            "Website": "https://vigneshkumarm2002.github.io/weather-dashboard/",
-            "Image": "Screenshot4.png"
-        } ,
-   
-        {
-        "Title": "Board.",
-        "Description": "A highly responsive authentication page and a dynamic dashboard page, enriched with interactive charts for data visualization and analysis.",
-        "Skills": ["React", "CSS", "JavaScript", "ChartJS","Firebase"],
-        "Code": "https://github.com/vigneshkumarm2002/Board-Charts",
-        "Website": "https://vigneshkumarm2002.github.io/Board-Charts/",
-        "Image": "Screenshot3.png"
-        }
-             
+            "Title": "Bash-Scripting-Project",
+            "Description": "This project automates system resource monitoring, security audits, and server hardening using Bash scripts, enhancing security and performance.",
+            "Skills": ["Bash","Ubuntu","Server-Hardening","Resource-Monitoring"],
+            "Code": "https://github.com/Uj5Ghare/Bash-Scripting-Project",
+            "Image": "bash-scripting.png"
+        }     
 ]
