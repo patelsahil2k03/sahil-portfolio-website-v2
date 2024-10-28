@@ -9,9 +9,6 @@ import OtherWorks from "./comps/otherWorks";
 import Contact from "./comps/contact";
 import Loader from "./comps/loader";
 
-// "homepage": "https://vigneshkumarm2002.github.io/Vigneshkumar-Portfolio",
-// add this in package json for ghPages
-
 function App() {
   return (
     <>

@@ -1,6 +1,6 @@
 {
-  "short_name": "Vigneshkumar M Portfolio",
-  "name": "Vigneshkumar M | Frontend Web Developer",
+  "short_name": "Ujwal5Ghare Portfolio",
+  "name": "Ujwal5Ghare | DevOps Engineer",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "avatar.png",
+      "src": "Avatar.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "avatar.png",
+      "src": "Avatar.png",
       "type": "image/png",
       "sizes": "512x512"
     }
