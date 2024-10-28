@@ -1,31 +1,61 @@
 [
-
-        {
-            "Title": "Go-Web-App",
-            "Description": "Implemented CI/CD pipeline and workflow to automate code quality checks, application builds, vulnerability scanning, cloud deployment, and monitoring, enhancing efficiency and reliability in software delivery.",
-            "Skills": ["Git","GitHub Actions","GitLab CI/CD", "Docker","EKS","Helm","Terraform", "PM2","SonarQube","Trivy","Zabbix"],
-            "Code": "https://github.com/Uj5Ghare/Go-Web-App",
-            "Image": "go-web-app.png"
-        },
-        {
-            "Title": "ArgoCD-Canary-Deployment",
-            "Description": "Automated the Dockerization of a Go web app using GitHub Actions, deployed it with Argo CD, and managed delivery through a canary deployment strategy.",
-            "Skills": ["Git","GitHub Actions","Docker","Kubernetes","ArgoCD"],
-            "Code": "https://github.com/Uj5Ghare/ArgoCD-Canary-Deployment",
-            "Image": "argocd-canary-deployment.png"
-        },
-        {
-            "Title": "Django-ToDo-App",
-            "Description": "This project automates the deployment of a Django To-Do application on an EKS cluster, including Docker image creation and AWS Load Balancer setup.",
-            "Skills": ["Git","Jenkins","Docker","Docker-Compose","EKS","Helm"],
-            "Code": "https://github.com/Uj5Ghare/Django-ToDo-App",
-            "Image": "django-todo-app.png"
-            },
-        {
-            "Title": "Bash-Scripting-Project",
-            "Description": "This project automates system resource monitoring, security audits, and server hardening using Bash scripts, enhancing security and performance.",
-            "Skills": ["Bash","Ubuntu","Server-Hardening","Resource-Monitoring"],
-            "Code": "https://github.com/Uj5Ghare/Bash-Scripting-Project",
-            "Image": "bash-scripting.png"
-        }     
+    {
+        "Title": "Go-Web-App",
+        "Description": "Implemented CI/CD pipeline and workflow to automate code quality checks, application builds, vulnerability scanning, cloud deployment, and monitoring",
+        "Skills": [
+            "Git",
+            "GitHub Actions",
+            "GitLab CI/CD",
+            "Docker",
+            "EKS",
+            "Helm",
+            "Terraform",
+            "PM2",
+            "Nginx",
+            "SonarQube",
+            "Trivy",
+            "Zabbix"
+        ],
+        "Code": "https://github.com/Uj5Ghare/Go-Web-App",
+        "Image": "go-web-app.png"
+    },
+    {
+        "Title": "ArgoCD-Canary-Deployment",
+        "Description": "Automated the Dockerization of a Go web app using GitHub Actions, deployed it with Argo CD, and managed delivery through a canary deployment strategy.",
+        "Skills": [
+            "Git",
+            "GitHub Actions",
+            "Docker",
+            "Kubernetes",
+            "ArgoCD"
+        ],
+        "Code": "https://github.com/Uj5Ghare/ArgoCD-Canary-Deployment",
+        "Image": "argocd-canary-deployment.png"
+    },
+    {
+        "Title": "Django-ToDo-App",
+        "Description": "This project automates the deployment of a Django To-Do application on an EKS cluster, including Docker image creation and AWS Load Balancer setup.",
+        "Skills": [
+            "Git",
+            "Jenkins",
+            "Docker",
+            "Docker-Compose",
+            "EKS",
+            "Helm"
+        ],
+        "Code": "https://github.com/Uj5Ghare/Django-ToDo-App",
+        "Image": "django-todo-app.png"
+    },
+    {
+        "Title": "Bash-Scripting-Project",
+        "Description": "This project automates system resource monitoring, security audits, and server hardening using Bash scripts, enhancing security and performance.",
+        "Skills": [
+            "Bash",
+            "Ubuntu",
+            "Server-Hardening",
+            "Resource-Monitoring"
+        ],
+        "Code": "https://github.com/Uj5Ghare/Bash-Scripting-Project",
+        "Image": "bash-scripting.png"
+    }
 ]
