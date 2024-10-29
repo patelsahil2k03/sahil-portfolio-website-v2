@@ -1,6 +1,10 @@
 {
   "short_name": "Ujwal5Ghare Portfolio",
   "name": "Ujwal5Ghare | DevOps Engineer",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,18 +12,14 @@
       "type": "image/x-icon"
     },
     {
-      "src": "Avatar.png",
+      "src": "avatar.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Avatar.png",
+      "src": "avatar.png",
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
