@@ -1,5 +1,28 @@
 [
     {
+        "Title": "E2E-EKS-Three-Tier-DevSecOps-Project",
+        "Description": "This project covered everything from setting up tools to deploying a Three-Tier app, ensuring data persistence, and implementing CI/CD pipelines.",
+        "Skills": [
+            "Git",
+            "Jenkins",
+            "Docker",
+            "EKS",
+            "ECR",
+            "Helm",
+            "ArgoCD",
+            "kubectl",
+            "Awscli",
+            "Terraform",
+            "SonarQube",
+            "Trivy",
+            "OWASP",
+            "Prometheus",
+            "Grafana"
+        ],
+        "Code": "https://github.com/Uj5Ghare/E2E-EKS-Three-Tier-DevSecOps-Project",
+        "Image": "devsecops.png"
+    },
+    {
         "Title": "Go-Web-App",
         "Description": "Implemented CI/CD pipeline and workflow to automate code quality checks, application builds, vulnerability scanning, cloud deployment, and monitoring",
         "Skills": [
