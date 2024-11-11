@@ -7,6 +7,7 @@ const Experience = () => {
       <div className="experienceContainer">
         <h1>Experience</h1>
         <div className="expContainer">
+
           <div className="expBox">
             <div className="expAlign">
               <h4>DevOps Associate</h4>
@@ -22,40 +23,15 @@ const Experience = () => {
             </div>
             <div className="dateLocation">
               <p className="jobLocation">Bangalore</p>
-              <p>Sept 2024 - Oct 2024</p>
+              <p>March 2024 - Sept 2024</p>
             </div>
             <ul>
               <li>
                 Migrated Client's <b>GitLab CI/CD</b> pipelines to <b>GitHub Workflows.</b>
               </li>
               <li>
-                Created <b>custom composite GitHub Actions</b> for client's and internal projects.
+                Conducted R&D on different workflows stratagies and Developed <b>custom composite actions</b> and <b>reuseable GitHub workflows</b> for client's and internal projects.
               </li>
-              <li>
-                Conducted R&D on different workflows stratagies and Created <b>reuseable GitHub workflows</b> for client's and internal projects.
-              </li>
-              <li><b>Tech Stack</b> - Git, GitHub Actions, GitLab CI/CD</li>
-            </ul>
-          </div>
-
-          <div className="expBox">
-            <div className="expAlign">
-              <h4>DevOps Associate Intern</h4>
-              <h5>
-                <a
-                  href="https://www.linkedin.com/company/vegastack/"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  @VegaStack (PeerXP)
-                </a>
-              </h5>
-            </div>
-            <div className="dateLocation">
-              <p className="jobLocation">Bangalore</p>
-              <p>March 2024 - Aug 2024</p>
-            </div>
-            <ul>
               <li>
                 Automated deployment of complex web apps <b>(Django, NextJS, ReactJS)</b> with <b>Nginx</b> as load balancer using <b>GitLab CI/CD</b>
               </li>
@@ -72,7 +48,7 @@ const Experience = () => {
                 <b>Achievement:</b> Appointed as a full time employee <b>@Vegastack (PeerXP)</b>
               </li>
               <li>
-                <b>Tech Stack:</b> - AWS, GitLab CI/CD, Docker, Docker-Compose, Terraform, Ansible, Zabbix
+                <b>Tech Stack:</b> - AWS, GitLab CI/CD, GitHub Actions, Docker, Docker-Compose, Terraform, Ansible, Zabbix, Nginx
               </li>
             </ul>
           </div>
