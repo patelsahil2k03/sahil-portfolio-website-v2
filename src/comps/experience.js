@@ -10,6 +10,42 @@ const Experience = () => {
 
           <div className="expBox">
             <div className="expAlign">
+              <h4>Associate Software Engineer</h4>
+              <h5>
+                <a
+                  href="https://www.linkedin.com/company/digiflux-technologies-pvt-ltd/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  @Digiflux Technologies Pvt Ltd
+                </a>
+              </h5>
+            </div>
+            <div className="dateLocation">
+              <p className="jobLocation">Vadodara, Gujrat</p>
+              <p>January 2025 - Present</p>
+            </div>
+            <ul>
+              <li>
+                Worked on AWS cost optimization and found cost saving opportunities that helps us saving $400+ dollers per month on 1 project only.
+              </li>
+              <li>
+                Managing 2 Projects of Kubernetes with Kops and Helm as package manager.
+              </li>
+              <li>
+                Setup and configured Monitoring with Grafana, Prometheus and Loki.
+              </li>
+              <li>
+                Handling SRE part of microservice applications with K8s, Grafana, Prometheus and Loki.
+              </li>
+              <li>
+                <b>Tech Stack:</b> - AWS, Kubernetes, Helm, GitLab CI/CD, Docker-Compose, Terraform, Ansible, Bash, Python, Grafana, Prometheus, Loki
+              </li>
+            </ul>
+          </div>
+
+          <div className="expBox">
+            <div className="expAlign">
               <h4>DevOps Associate</h4>
               <h5>
                 <a
@@ -17,7 +53,7 @@ const Experience = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  @VegaStack (PeerXP)
+                  @VegaStack (PeerXP Services Pvt Ltd)
                 </a>
               </h5>
             </div>
@@ -45,9 +81,6 @@ const Experience = () => {
                 Implemented proactive monitoring of servers with <b>Zabbix server 7.0</b> and <b>Zabbix agent 2</b>
               </li>
               <li>
-                <b>Achievement:</b> Appointed as a full time employee <b>@Vegastack (PeerXP)</b>
-              </li>
-              <li>
                 <b>Tech Stack:</b> - AWS, GitLab CI/CD, GitHub Actions, Docker, Docker-Compose, Terraform, Ansible, Zabbix, Nginx
               </li>
             </ul>
@@ -57,8 +90,8 @@ const Experience = () => {
             <div className="expAlign">
               <h4>Cloud Computing</h4>
               <h5>
-                <a href="https://darlinsproduction.in/" target="_blank" rel="noreferrer">
-                  @Extion Infotech
+                <a href="https://in.linkedin.com/company/extion-infotech" target="_blank" rel="noreferrer">
+                  @Extion Infotech Technologies
                 </a>
               </h5>
             </div>
