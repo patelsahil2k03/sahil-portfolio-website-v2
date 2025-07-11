@@ -10,11 +10,11 @@ const Hero = () => {
       <section className="heroContent">
         <div>
           <h1>
-            I'm <span style={{ whiteSpace: "nowrap" }}>Ujwal Pachghare</span>
+            I'm <span style={{ whiteSpace: "nowrap" }}>Sahil Patel</span>
           </h1>
           <p>
             {" "}
-            A Skilled Associate DevOps Engineer with less than 1 year of experience in DevOps & AWS Cloud. Experience working in Agile team with UNIX like systems including good scripting skills in Bash and Python. Currently, I’m looking for a full-time role to bring my skills to new challenges and teams.
+            A passionate Associate Software Engineer with expertise in AI/ML and full-stack development. I specialize in building intelligent systems using Python, React.js, and modern ML frameworks. With published research in deep learning and hands-on experience at Digiflux Technologies, I'm always excited to tackle new challenges in software engineering and artificial intelligence.
           </p>
         </div>{" "}
         <Link to="works" smooth={true} duration={500}>
@@ -24,11 +24,8 @@ const Hero = () => {
 
       <ul className="socialIcons">
         <li>
-          <a
-            href="https://www.linkedin.com/in/ujwal-pachghare"
-            rel="noreferrer"
-            target="_blank"
-          >
+          <a href="https://www.linkedin.com/in/sahil-patel-581226205" rel="noreferrer" target="_blank">
+
             <svg
               className="feather feather-linkedin"
               fill="none"
@@ -48,11 +45,8 @@ const Hero = () => {
           </a>
         </li>
         <li>
-          <a
-            href="https://github.com/Uj5Ghare"
-            rel="noreferrer"
-            target="_blank"
-          >
+          <a href="https://github.com/patelsahil2k03" rel="noreferrer" target="_blank">
+
             <svg
               xmlns="http://www.w3.org/2000/svg"
               role="img"
@@ -71,7 +65,7 @@ const Hero = () => {
         </li>
         <li>
           <a
-            href="https://www.medium.com/%40ujwal5ghare"
+            href="https://medium.com/@patelsahil2k03"
             rel="noreferrer"
             target="_blank"
           >
@@ -96,8 +90,8 @@ const Hero = () => {
       </ul>
       <div className="mailBar">
         <p>
-          <a href="mailto:ujwal5ghare@gmail.com">
-            ujwal5ghare@gmail.com
+          <a href="mailto:patelsahil2k03@gmail.com">
+            patelsahil2k03@gmail.com
           </a>
         </p>
       </div>

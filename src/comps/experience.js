@@ -8,6 +8,7 @@ const Experience = () => {
         <h1>Experience</h1>
         <div className="expContainer">
 
+          {/* Digiflux */}
           <div className="expBox">
             <div className="expAlign">
               <h4>Associate Software Engineer</h4>
@@ -22,101 +23,102 @@ const Experience = () => {
               </h5>
             </div>
             <div className="dateLocation">
-              <p className="jobLocation">Vadodara, Gujrat</p>
-              <p>January 2025 - Present</p>
+              <p className="jobLocation">Vadodara, India</p>
+              <p>January 2024 - Present</p>
             </div>
             <ul>
               <li>
-                Worked on AWS cost optimization and found cost saving opportunities that helps us saving $400+ dollers per month on 1 project only.
+                Developing and integrating AI models using modern machine learning frameworks and cloud technologies.
               </li>
               <li>
-                Managing 2 Projects of Kubernetes with Kops and Helm as package manager.
+                Built responsive user interfaces using <b>React.js</b>, ensuring seamless user experience across applications.
               </li>
               <li>
-                Setup and configured Monitoring with Grafana, Prometheus and Loki.
+                Collaborating with cross-functional teams to deliver high-quality software solutions.
               </li>
               <li>
-                Handling SRE part of microservice applications with K8s, Grafana, Prometheus and Loki.
+                Deployed and managed ML applications with <b>LangChain</b>, <b>OpenAI</b>, and <b>AWS Sagemaker</b>.
               </li>
               <li>
-                <b>Tech Stack:</b> - AWS, Kubernetes, Helm, GitLab CI/CD, Docker-Compose, Terraform, Ansible, Bash, Python, Grafana, Prometheus, Loki
+                <b>Tech Stack:</b> React.js, Python, JavaScript, LangChain, OpenAI, AWS Sagemaker, Docker, Machine Learning
               </li>
             </ul>
           </div>
 
+          {/* L&T */}
           <div className="expBox">
             <div className="expAlign">
-              <h4>DevOps Associate</h4>
+              <h4>Machine Learning & Web Development Intern</h4>
               <h5>
                 <a
-                  href="https://www.linkedin.com/company/vegastack/"
+                  href="https://www.linkedin.com/company/larsen-&-toubro-ltd/"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  @VegaStack (PeerXP Services Pvt Ltd)
+                  @Larsen & Toubro
                 </a>
               </h5>
             </div>
             <div className="dateLocation">
-              <p className="jobLocation">Bangalore</p>
-              <p>March 2024 - Sept 2024</p>
+              <p className="jobLocation">Vadodara, India</p>
+              <p>May 2022 - July 2023</p>
             </div>
             <ul>
               <li>
-                Migrated Client's <b>GitLab CI/CD</b> pipelines to <b>GitHub Workflows.</b>
+                <b>Web Development Intern (May-July 2023):</b> Designed and implemented web request forms using <b>ASP.NET MVC</b> and <b>ASP.NET Core</b>.
               </li>
               <li>
-                Conducted R&D on different workflows stratagies and Developed <b>custom composite actions</b> and <b>reuseable GitHub workflows</b> for client's and internal projects.
+                Streamlined client interactions and data collection using <b>C#</b> and <b>JavaScript</b>.
               </li>
               <li>
-                Automated deployment of complex web apps <b>(Django, NextJS, ReactJS)</b> with <b>Nginx</b> as load balancer using <b>GitLab CI/CD</b>
+                <b>Machine Learning Intern (May-June 2022):</b> Developed AI Chatbots using <b>RASA</b> framework for automated customer support.
               </li>
               <li>
-                Created Terraform manifests with aws s3 as backend to automatically spin up spot instances and run Ansible playbooks on it. <b>(Ansible playbooks for testing blog tutorials)</b>
+                Worked on natural language processing and conversational AI implementations.
               </li>
               <li>
-                Created <b>Dockerfiles and docker-compose files</b> for frontend, backend, databases and rabbitmq.
-              </li>
-              <li>
-                Implemented proactive monitoring of servers with <b>Zabbix server 7.0</b> and <b>Zabbix agent 2</b>
-              </li>
-              <li>
-                <b>Tech Stack:</b> - AWS, GitLab CI/CD, GitHub Actions, Docker, Docker-Compose, Terraform, Ansible, Zabbix, Nginx
+                <b>Tech Stack:</b> C#, JavaScript, ASP.NET MVC, ASP.NET Core, RASA, NLP, Machine Learning
               </li>
             </ul>
           </div>
 
+          {/* Motorola */}
           <div className="expBox">
             <div className="expAlign">
-              <h4>Cloud Computing</h4>
+              <h4>MEAN Stack Developer Intern</h4>
               <h5>
-                <a href="https://in.linkedin.com/company/extion-infotech" target="_blank" rel="noreferrer">
-                  @Extion Infotech Technologies
+                <a
+                  href="https://www.linkedin.com/company/motorola-solutions/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  @Motorola Solutions
                 </a>
               </h5>
             </div>
             <div className="dateLocation">
-              <p className="jobLocation"> Remote</p>
-              <p>Jan 2024 - Feb 2024</p>
+              <p className="jobLocation">Bangalore, India</p>
+              <p>May 2022 - November 2022</p>
             </div>
             <ul>
               <li>
-                Achieved <b>99.9%</b> uptime with auto-scaling by deploying web applications using Serverless Amazon Elastic Beanstalk.
+                Specialized in <b>MEAN Stack</b> development with focus on <b>Node.js</b>, <b>Express.js</b>, <b>Angular</b>, and <b>MongoDB</b>.
               </li>
               <li>
-                Developed a serverless app that uses <b>API Gateway and AWS Lambda</b> to reduce operating costs.
+                Gained proficiency in full-stack web development and database management.
               </li>
               <li>
-                Managed data across various <b>Amazon S3</b> buckets, applying lifecycle policies that lowered storage costs while ensuring <b>99.99%</b> durability.
+                Completed elective courses in modern web technologies and best practices.
               </li>
               <li>
-                <b>Achievement:</b> Chosen as one of the top 5 outstanding performers.
+                Worked on building scalable web applications with RESTful APIs.
               </li>
               <li>
-                <b>Tech Stack:</b> AWS EC2, AWS S3, Amazon Elastic Beanstalk, AWS Lambda, AWS API Gateway
+                <b>Tech Stack:</b> MongoDB, Express.js, Angular, Node.js, SQL, JavaScript, RESTful APIs
               </li>
             </ul>
           </div>
+
         </div>
       </div>
     </section>

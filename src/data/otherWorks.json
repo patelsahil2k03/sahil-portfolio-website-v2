@@ -1,37 +1,41 @@
 [
     {
-        "Title": "MERN-ToDo-App",
-        "Description": "Three tier MERN stack application deployment with docker & docker-compose",
+        "Title": "Machine Learning Research Papers",
+        "Description": "Published research on deep learning applications in educational assessment and computer vision, presented at international conferences.",
         "Skills": [
-            "MERN Stack",
-            "Multistage Docker",
-            "Multi container docker-compose",
-            "Nginx"
+            "Deep Learning",
+            "Research",
+            "Academic Writing",
+            "Conference Presentation",
+            "BERT",
+            "YOLOv8"
         ],
-        "Code": "https://github.com/Uj5Ghare/MERN-ToDo-App",
-        "Image": "mern-todo-app.png"
+        "Code": "https://github.com/patelsahil2k03/research-papers",
+        "Image": ""
     },
     {
-        "Title": "React-Portfolio",
-        "Description": "A simple portfolio page developed with ReactJS and deployed it on github pages",
+        "Title": "Football Tournament Participation",
+        "Description": "Participated in National West Zone Inter-University Football Tournament representing my university in 2022 and 2023.",
         "Skills": [
-            "HTML",
-            "CSS",
-            "ReactJS",
-            "GitHub Pages"
+            "Teamwork",
+            "Leadership",
+            "Sports",
+            "Competition"
         ],
-        "Code": "https://github.com/Uj5Ghare/React-Portfolio",
-        "Image": "react-portfolio.png"
+        "Code": "#",
+        "Image": ""
     },
     {
-        "Title": "Responsive-Web-Designing",
-        "Description": "This project is for learning HTML and CSS with FreeCodeCamp Responsive Web Design Certification Course",
+        "Title": "Google Cloud Certifications",
+        "Description": "Completed Google Cloud Study Jams and GCCP campaign, gaining expertise in cloud computing and machine learning platforms.",
         "Skills": [
-            "HTML",
-            "CSS"
+            "Google Cloud",
+            "Cloud Computing",
+            "Machine Learning",
+            "Certification"
         ],
-        "Code": "https://github.com/Uj5Ghare/Responsive-Web-Designing",
-        "Image": "web-designing.png"
+        "Code": "#",
+        "Image": ""
     }
 ]
 

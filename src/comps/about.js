@@ -3,38 +3,43 @@ import "./../styles/about.css";
 
 const About = () => {
   const skills = [
-    "AWS Cloud",
-    "GitHub Actions",
-    "GitLab CI/CD",
-    "Jenkins",
-    "Docker",
-    "Kubernetes",
-    "Helm",
-    "Terraform",
-    "Ansible",
-    "Nginx",
-    "SonarQube",
-    "Trivy",
-    "Zabbix",
-    "PostgreSQL",
-    "Python",
-    "Bash",
-    "Git",
-    "PM2",
-    "Ubuntu Linux",
-    "Notion",
-    "ClickUp",
-    "Loom",
+  "Python",
+  "JavaScript",
+  "TypeScript",
+  "React.js",
+  "Next.js",
+  "Angular",
+  "Node.js",
+  "MongoDB",
+  "PostgreSQL",
+  "AWS",
+  "Docker",
+  "Machine Learning",
+  "Deep Learning",
+  "TensorFlow",
+  "Scikit-learn",
+  "LangChain",
+  "OpenAI",
+  "Git",
+  "HTML/CSS",
+  "Material-UI",
+  "Tailwind CSS"
   ];
+
   const basics = [
-    "Azure",
-    "HTML",
-    "CSS",
-    "AI/ML",
-    "MongoDB",
-    "Cloudflare",
-    "ArgoCD",
-    "Prometheus & Grafana"
+    "C/C++",
+    "C#",
+    "SQL",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "BERT",
+    "LSTM",
+    "CNN",
+    "Flutter",
+    "ASP.NET",
+    "Power BI",
+    "Jupyter Notebook"
   ];
   return (
     <section id="about" className="aboutSection sectionHead">
@@ -42,12 +47,12 @@ const About = () => {
         <h1>About Me</h1>
         <div className="aboutContent">
           <div className="aboutMe">
-            <p>
-              I'm a Associate DevOps Engineer who loves to automate things. During my early days, I struggled with choosing a domain to specialize in. It was then that a friend suggested DevOps to me. Intrigued by the idea and concept, I decided to explore and dive deeper into the world of DevOps. When I witnessed automating things, I felt exited, which fueled my motivation to learn more.
-              <br />
-              <br />
-              At first, I learned fundamentals of DevOps and deployed simple web application by following DevOps best practices. However, fast forward to today, I have significantly improved my skills to the point where I am capable of working on complex projects. I'm currently researching various release and deployment processes as well as effective monitoring techniques to reduce application downtime.
-            </p>
+          <p>
+            I'm an Associate Software Engineer passionate about AI/ML and full-stack development. My journey began during my B.Tech in Computer Engineering at CHARUSAT, where I discovered my love for building intelligent systems that solve real-world problems. From developing CNN-based lip-reading models to creating AI-powered chatbots, I thrive on turning complex ideas into functional solutions.
+            <br />
+            <br />
+            Currently at Digiflux Technologies, I focus on developing and integrating AI models while building responsive user interfaces with React.js. I enjoy working on diverse projects - from machine learning research that gets published in conferences to creating full-stack applications that streamline business processes. My goal is to continue pushing the boundaries of what's possible with AI while delivering high-quality software solutions.
+          </p>
           </div>
 
           <div className="skillsContent">
